@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 function Eventbutton() {
     return (
-        <a href="https://linktr.ee/litsoc.iitmandi?fbclid=PAZXh0bgNhZW0CMTEAAaddp-LmTkP6Uyhb9MoBoyZdCtZOYpzYWmUvInsSsUK-D4VgDYL4ZgQ2_YIxfQ_aem_beN5P_SGpzrZOiX5jofxvw" target="_blank" rel="noopener noreferrer">
+        <a href="https://linktr.ee/litsoc.iitmandi?fbclid=PAZXh0bgNhZW0CMTEAAaddp-LmTkP6Uyhb9MoBoyZdCtZOYpzYWmUvInsSsUK-D4VgDYL4ZgQ2_YIxfQ_aem_beN5P_SGpzrZOiX5jofxvw" target="_blank" rel="noopener noreferrer" className="inline-block">
             <motion.div
                 className='p-3 bg-[#5eccfb] mt-5 font-semibold w-fit rounded-4xl border-4 relative cursor-pointer'
                 animate={{ scale: [1, 1.2, 1.2, 1, 1] }}

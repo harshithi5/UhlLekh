@@ -46,7 +46,7 @@ function Textcard(props) {
 
       {/* Hover target — triggers animation ONCE */}
 
-      <a href={props.link} target="_blank" rel="noopener noreferrer">
+      <a href={props.link} target="_blank" rel="noopener noreferrer" className="inline-block">
         <div
           className='mt-5 font-medium text-2xl cursor-pointer w-max flex items-center gap-3'
           onMouseEnter={runAnimationOnce}

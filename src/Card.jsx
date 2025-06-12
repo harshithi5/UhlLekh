@@ -33,7 +33,7 @@ function Card(props) {
                     <div className='w-max font-semibold'>{props.name}</div>
                     <div className='text-xs'>{props.genre}</div>
                 </div>
-                <a href="https://www.linkedin.com/in/harshithi5/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/harshithi5/" target="_blank" rel="noopener noreferrer" className="inline-block">
                 <div><img src={Arrow} className='h-10 cursor-pointer' /></div>
                 </a>
             </div>

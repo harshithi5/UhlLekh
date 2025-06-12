@@ -9,13 +9,13 @@ function Footer() {
     <div className='flex flex-col mt-10 items-center w-full mb-10 gap-5'>
       <img src={Logo} className='w-40' />
       <div className='w-full flex items-center justify-around'>
-        <a href="#" target="_blank" rel="noopener noreferrer">
+        <a href="#" target="_blank" rel="noopener noreferrer" className="inline-block">
           <img src={Web} className='h-10 cursor-pointer' />
         </a>
-        <a href="https://www.instagram.com/litcouncil_iitmandi/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/litcouncil_iitmandi/" target="_blank" rel="noopener noreferrer" className="inline-block">
           <img src={Insta} className='h-10 cursor-pointer' />
         </a>
-        <a href="https://www.linkedin.com/company/uhllekh/posts/?feedView=all" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/company/uhllekh/posts/?feedView=all" target="_blank" rel="noopener noreferrer" className="inline-block">
           <img src={Linkedin} className='h-10 cursor-pointer' />
         </a>
       </div>
