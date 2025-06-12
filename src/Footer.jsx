@@ -6,7 +6,7 @@ import Insta from './assets/insta.svg';
 
 function Footer() {
   return (
-    <div className='flex flex-col mt-10 items-center w-full mb-10 gap-5 bg-[#fefff0]'>
+    <div className='flex flex-col mt-10 items-center w-full pb-10 gap-5 bg-[#fefff0]'>
       <img src={Logo} className='w-40' />
       <div className='w-full flex items-center justify-around'>
         <a href="#" target="_blank" rel="noopener noreferrer" className="inline-block">
