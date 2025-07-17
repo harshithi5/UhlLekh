@@ -1,12 +1,62 @@
-# React + Vite
+# UHL Lekh — Writing Club Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://uhl-lekh.vercel.app)
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**UHL Lekh** is the website of the Writing Club of Indian Institute of Technology, Mandi. I served as the Club Coordinator during the 2024-25 period and created this website to centralize all activities, showcase our works, and simplify event participation.
 
-## Expanding the ESLint configuration
+This platform provides an engaging and organized experience for both members and visitors.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+### 1. Event Registration
+
+Visitors and members can register for writing-related events through pur society's link tree.
+
+### 2. Wordle-Inspired Game
+
+A simple interactive word game to promote vocabulary and writing interest among the visitors.
+
+### 3. Coordinators & Co-Coordinators
+
+Profiles and connections of the current club coordinators and co-coordinators are highlighted.
+
+### 4. Achievements
+
+A section dedicated to showcasing our awards, accomplishments, and milestones.
+
+### 5. Works and Genres
+
+Browse through our club’s collection of written works, organized by genre.
+
+### 6. Fully Responsive
+The UI has been built to ensure smooth accessibility of the website over mobile, tablet as well as monitor's screen.
+
+## App Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/harshithi5/UhlLekh.git
+cd UhlLekh
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Development Server
+
+```bash
+npm run dev
+```
+
+The application will typically run at `http://localhost:5173` (or the port specified by Vite or React settings).
+
+## Deployment
+
+This project is hosted on Vercel.
+Live URL: [https://uhl-lekh.vercel.app](https://uhl-lekh.vercel.app)
