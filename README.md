@@ -60,3 +60,23 @@ The application will typically run at `http://localhost:5173` (or the port speci
 
 This project is hosted on Vercel.
 Live URL: [https://uhl-lekh.vercel.app](https://uhl-lekh.vercel.app)
+
+## Screenshots
+
+### Home Page  
+<img src="./App%20ScreenShots/Home.png" width="1000"/>
+
+### Achievements Section  
+<img src="./App%20ScreenShots/Achievements.png" width="700"/>
+
+### Genres Page  
+<img src="./App%20ScreenShots/Genres.png" width="1000"/>
+
+### Meet the Coordinators Page  
+<img src="./App%20ScreenShots/Meet%20The%20Coordis.png" width="400"/>
+
+### Wordle Game  
+<img src="./App%20ScreenShots/Wordle.png" width="1000"/>
+
+### Footer Section  
+<img src="./App%20ScreenShots/Footer.png" width="1000"/>
